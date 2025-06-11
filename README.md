@@ -1,4 +1,3 @@
-Telegram: t.me/upMoneyX
 
 # Discord-bot
 Video instruction: https://www.youtube.com/watch?v=vcOpX0MKCBc&list=LL&index=20
